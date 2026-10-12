@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\QATest\\Edi\\KalmanQATestFiles\\AutomatedTests\\Edi.UITests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{058A84DD-E129-47AB-A40E-97F8E02CB506}|Edi.UITests.csproj|c:\\qatest\\edi\\kalmanqatestfiles\\automatedtests\\edi.uitests\\01_openfiletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058A84DD-E129-47AB-A40E-97F8E02CB506}|Edi.UITests.csproj|solutionrelative:01_openfiletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058A84DD-E129-47AB-A40E-97F8E02CB506}|Edi.UITests.csproj|c:\\qatest\\edi\\kalmanqatestfiles\\automatedtests\\edi.uitests\\edi.uitests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{058A84DD-E129-47AB-A40E-97F8E02CB506}|Edi.UITests.csproj|solutionrelative:edi.uitests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edi.UITests",
+              "DocumentMoniker": "C:\\QATest\\Edi\\KalmanQATestFiles\\AutomatedTests\\Edi.UITests\\Edi.UITests.csproj",
+              "RelativeDocumentMoniker": "Edi.UITests.csproj",
+              "ToolTip": "C:\\QATest\\Edi\\KalmanQATestFiles\\AutomatedTests\\Edi.UITests\\Edi.UITests.csproj",
+              "RelativeToolTip": "Edi.UITests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-12T09:25:21.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "01_OpenFileTests.cs",
+              "DocumentMoniker": "C:\\QATest\\Edi\\KalmanQATestFiles\\AutomatedTests\\Edi.UITests\\01_OpenFileTests.cs",
+              "RelativeDocumentMoniker": "01_OpenFileTests.cs",
+              "ToolTip": "C:\\QATest\\Edi\\KalmanQATestFiles\\AutomatedTests\\Edi.UITests\\01_OpenFileTests.cs",
+              "RelativeToolTip": "01_OpenFileTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:53:02.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
